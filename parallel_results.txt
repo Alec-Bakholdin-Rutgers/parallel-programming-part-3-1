@@ -1,0 +1,31 @@
+2 
+Decoded password: a
+Time taken: 0.000402 s
+Decoded password: aa
+Time taken: 0.000459 s
+Decoded password: aaa
+Time taken: 0.001224 s
+Decoded password: aaaa
+Time taken: 0.092892 s
+Decoded password: aaaaa
+Time taken: 4.324750 s
+
+4
+Decoded password: aaaaa
+Time taken: 2.207275 s
+
+8
+Decoded password: aaaaa
+Time taken: 1.122305 s
+
+16
+Decoded password: aaaaa
+Time taken: 1.665069 s
+
+32
+Decoded password: aaaaa
+Time taken: 1.659418 s
+
+64
+Decoded password: aaaaa
+Time taken: 2.231456 s
